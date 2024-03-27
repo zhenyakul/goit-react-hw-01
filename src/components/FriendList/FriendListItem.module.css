@@ -1,0 +1,16 @@
+.FriendListItemImage {
+  min-width: 120px;
+  height: auto;
+}
+.FriendListItemName {
+  font-weight: 700;
+  font-size: 35px;
+}
+.FriendListItemStatusOn {
+  color: green;
+  margin: 0;
+}
+.FriendListItemStatusOff {
+  color: red;
+  margin: 0;
+}
